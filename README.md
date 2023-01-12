@@ -8,6 +8,12 @@ Educator
 
 The next cell is suppose to add thee numerical equation.
 
+# display the output
 
+x = 5
+
+y = 10
+
+print(x+y)
 
 
