@@ -8,6 +8,6 @@ Educator
 
 The next cell is suppose to add thee numerical equation.
 
-1+1
+
 
 
